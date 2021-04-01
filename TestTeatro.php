@@ -1,7 +1,7 @@
 <?php
 include 'Teatro.php';
 
-$teat = new Teatro();
+$teat = new Teatro(); 
 do {
     echo "--------------------------------------" . "\n";
     echo "ELIJA UNA OPCION: " . "\n";

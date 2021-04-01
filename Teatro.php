@@ -3,7 +3,7 @@
 class teatro
 {
 
-    // ATRIBUTOS
+    // ATRIBUTOS 
     private $nombreTeatro;
     private $direccion;
     private $funciones;
