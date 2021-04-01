@@ -13,7 +13,7 @@ class teatro
     {
         $this->nombreTeatro = '';
         $this->direccion = '';
-        $this->funciones = '';
+        $this->funciones = [];
     }
 
     // GET 
